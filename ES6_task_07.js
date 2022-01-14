@@ -7,4 +7,5 @@ const sum = (...args) => {
       res += Number(a[elem]);
     }
     return res;  
-  }
+  };
+  
